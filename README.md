@@ -22,7 +22,7 @@ Coming soon!
 ---
 
   ### R
-- [NLP]() 
+- [NLP](https://github.com/JoaoSalero-AI/Deep-Learning-Study-Projects/tree/master/NLP) 
  
 
 ---
